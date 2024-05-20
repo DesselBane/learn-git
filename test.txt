@@ -1,1 +1,2 @@
 hello there this is a test file
+hi there this is a conflict
